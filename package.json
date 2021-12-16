@@ -17,7 +17,7 @@
     "element-ui": "^2.8.2",
     "good-storage": "^1.1.0",
     "hls.js": "^0.12.4",
-    "plupload": "^2.3.6",
+    "plupload": "^2.3.9",
     "qrcodejs2": "0.0.2",
     "vue": "^2.6.10",
     "vue-aplayer": "^1.6.1",
